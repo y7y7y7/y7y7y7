@@ -2,7 +2,7 @@
 - 👀 I’m interested in video
 - 🌱 I’m currently learning disagn
 - 💞️ I’m looking to collaborate disagn
-- 📫 How to reach me video
+- 📫 How to reach me yuash@ukr.net
 
 <!---
 y7y7y7/y7y7y7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
